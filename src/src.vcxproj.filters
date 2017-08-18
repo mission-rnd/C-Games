@@ -30,10 +30,10 @@
     <ClInclude Include="ReversiMovesUtils.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="C15Puzzle.h">
+    <ClInclude Include="C15Puzzle.cpp">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="Reversi.h">
+    <ClInclude Include="CReversi.cpp">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

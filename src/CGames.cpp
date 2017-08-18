@@ -5,12 +5,12 @@
 #include "C15UserUtils.h"
 #include "C15MovesUtils.h"
 
-#include "C15Puzzle.h"
+#include "C15Puzzle.cpp"
 
 #include "ReversiBoardUtils.h"
 #include "ReversiMovesUtils.h"
 
-#include "Reversi.h"
+#include "CReversi.cpp"
 
 int main(){
 

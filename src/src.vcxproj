@@ -83,9 +83,9 @@
   <ItemGroup>
     <ClInclude Include="C15BoardUtils.h" />
     <ClInclude Include="C15MovesUtils.h" />
-    <ClInclude Include="C15Puzzle.h" />
+    <ClInclude Include="C15Puzzle.cpp" />
     <ClInclude Include="C15UserUtils.h" />
-    <ClInclude Include="Reversi.h" />
+    <ClInclude Include="CReversi.cpp" />
     <ClInclude Include="ReversiBoardUtils.h" />
     <ClInclude Include="ReversiMovesUtils.h" />
   </ItemGroup>
